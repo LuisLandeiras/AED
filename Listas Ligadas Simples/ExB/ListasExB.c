@@ -76,8 +76,8 @@ int main(){
     Lista = criarListaAleatoria(TAM);
     printf("\nLista Normal:\n\n");
     mostrarListaInicio(Lista);  
+
     // B1.2 
-    /*
     printf("\nLista ItoF:\n\n");
     mostrarListaInicio(Lista);
     printf("\nLista FtoI:\n\n");
@@ -109,7 +109,6 @@ int main(){
     for(int i = 0; i < 2; i++){
       mostrarListaInicio(array[i]);
     }
-    */
    
     return 0;
 }

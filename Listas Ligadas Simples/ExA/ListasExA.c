@@ -468,7 +468,7 @@ int main(){
   // A1.2 
   printf("\nLista Normal:\n\n");
   mostrarListaInicio(Lista);
-  /*
+
   printf("\nLista Normal:\n\n");
   mostrarListaInicio(Lista1);
   
@@ -637,7 +637,6 @@ int main(){
   }
   // TP2.5
   printf("%d\n", count);
-  */
 
   return 0;
 }
